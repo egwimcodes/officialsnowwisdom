@@ -1,11 +1,10 @@
 [![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1800)](https://snowwisdom.com)
 <h1 align="center">Hi 👋, I'm Wisdom</h1>
 <h3 align="center">A passionate Web & Software Developer from Nigeria</h3>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<style>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialsnowwisdom&label=Profile%20views&color=0e75b6&style=flat" alt="officialsnowwisdom" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialsnowwisdom" alt="officialsnowwisdom" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/osnowwisdom" target="blank"><img src="https://img.shields.io/twitter/follow/osnowwisdom?logo=twitter&style=for-the-badge" alt="osnowwisdom" /></a> </p>
 
@@ -45,4 +44,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialsnowwisdom&show_icons=true&locale=en&layout=compact" alt="officialsnowwisdom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialsnowwisdom&show_icons=true&locale=en" alt="officialsnowwisdom" /></p>
+
 
