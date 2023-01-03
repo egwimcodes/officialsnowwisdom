@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=1800)](https://snowwisdom.com)
 <h1 align="center">Hi 👋, I'm Wisdom</h1>
 <h3 align="center">A passionate Web & Software Developer from Nigeria</h3>
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialsnowwisdom&label=Profile%20views&color=0e75b6&style=flat" alt="officialsnowwisdom" /> </p>
 
